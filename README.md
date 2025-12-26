@@ -335,19 +335,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - [Keras Documentation](https://keras.io/)
 - [OpenCV Documentation](https://opencv.org/)
 
-## 👨‍💻 Author
-
-Original project by [Pawandeep-prog](https://github.com/Pawandeep-prog)
-
-### Connect with the Creator:
-- **Facebook**: [programminghub](https://m.facebook.com/proogramminghub)
-- **Instagram**: [@programming_hut](https://instagram.com/programming_hut)
-- **Twitter**: [@programming_hut](https://twitter.com/programming_hut)
-- **GitHub**: [Pawandeep-prog](https://github.com/Pawandeep-prog)
-- **Discord**: [Join Server](https://discord.gg/G5Cunyg)
-- **LinkedIn**: [programminghut](https://www.linkedin.com/in/programminghut)
-- **YouTube**: [programminghutofficial](https://www.youtube.com/c/programminghutofficial)
-
 ## 📄 License
 
 This project is open source and available for educational purposes.
