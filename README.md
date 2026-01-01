@@ -26,11 +26,6 @@ This project combines **Computer Vision**, **Deep Learning**, and **Web Developm
 3. **Detects** emotions using a pre-trained Keras neural network model
 4. **Recommends** music by opening YouTube search results based on detected emotion, language, and artist preferences
 
-### Explanation Video
-[![Watch the Video](emotion.jpg)](https://youtu.be/uDzLxos0lNU)
-
-**Video Link:** [Emotion based music | ai | deep learning project | with code | ml project](https://youtu.be/uDzLxos0lNU)
-
 ## 🌟 Importance & Applications
 
 ### Why This Project Matters:
@@ -348,5 +343,3 @@ This project is open source and available for educational purposes.
 ---
 
 **Made with ❤️ using Python, Deep Learning, and Computer Vision**
-
-For any queries or issues, please open an issue on the repository or contact the author through the links above.
